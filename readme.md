@@ -1,4 +1,4 @@
-
+# REPORT
 ## Overview
 
 The dataset [here](https://drive.google.com/file/d/1womRkJ-pf1XJyXtv-caGYH2jWMG0L_v3/view?usp=sharing) is contained a file called email_campaigns.pkl. I analysed the file to extract insights from this using NLP.
@@ -9,7 +9,7 @@ The dataset [here](https://drive.google.com/file/d/1womRkJ-pf1XJyXtv-caGYH2jWMG0
 
 - Load the .pkl data into a Pandas DataFrame.
 - Performed basic EDA checks like df.head(), .info(), .describe(), .isnull().sum() for better understanding the dataset.
-- Converted the .pkl file to .csv and .json for convenience of performing operations and personally visualizing the data better.
+- Converted the .pkl file to .csv and .json for the convenience of performing operations and personally visualizing the data better.
 - Load the JSON data into a Pandas DataFrame.
 - Extract relevant features from the JSON structure (e.g., subject, body).
 - Convert categorical variables (like boolean flags) into numerical values.
