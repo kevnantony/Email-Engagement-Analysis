@@ -45,7 +45,7 @@ Result:
 
 ![6b7cddae-a830-453e-b4d4-8be0b368c4a5](https://github.com/kevnantony/Email-Engagement-Analysis/assets/76067692/de6d6314-7b69-4878-b517-18246173f293)
 
-- These are the top words used to get the ['Open'= True] with respect to the 'subject' in the above dataset. The exact similar process could be done for getting an analysis of what prompted the users to book a meeting (i.e. 'meeting link clicked': True) or (respond i.e. 'responded': True) by subsituting these for 'Open' in the above program and 'body' instead of 'subject' going by the logic that users tend to respond or click the meeting link only if they are interested.
+- These are the top words used to get the ['Open'= True] with respect to the 'subject' in the above dataset.In order to increase our chances of getting the email opened, we should try to add these words in the subject. The exact same process could be done for getting an analysis of what prompted the users to book a meeting (i.e. 'meeting link clicked': True) or respond (i.e. 'responded': True) by subsituting these for 'Open' in the above program and 'body' instead of 'subject' going by the logic that users tend to respond or click the meeting link only if they are interested.
 
 
 
